@@ -1,7 +1,7 @@
 #### MIT xPRO Fullstack Development
 ## Real Time Bus Tracker
 ### MIT to Harvard
-Simulation link: [MIT to Harvard Bus](https://marialee222.github.io/real-time-bus-tracker.github.io/index.html)
+Simulation link: [MIT to Harvard Bus](https://marialee222.github.io/real-time-bus-tracker/)
 
 Three bouncing balls in a box area were created by using HTML, CSS, and JavaScript.  The area of the bouncing balls was set and simple design and functionality added.
 
