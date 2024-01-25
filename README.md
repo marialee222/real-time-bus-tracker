@@ -16,7 +16,7 @@ The Real-Time Bus Tracker is a web application that visualizes the movement of a
  - created a line for the bus marker (JS)
 
 ## How to Run
-To run the Real Time Bus Tracker on your machine, follow these steps:
+To run the Real-Time Bus Tracker on your machine, follow these steps:
 1. Clone the repo: git clone https://github.com/marialee222/real-time-bus-tracker.git
 2. Open the project directory: cd real-time-bus-tracker
 3. Open index.html in your web browser.
