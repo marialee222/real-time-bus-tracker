@@ -11,7 +11,7 @@ The Real-Time Bus Tracker is a web application that visualizes the movement of a
  - button styling (CSS)
  - cursor pointer (CSS)
  - button hover animation (CSS)
- - moved script tags to the end of the <body> section (HTML)
+ - moved script tags to the end of the body section (HTML)
  - updated button label (HTML)
  - created a line for the bus marker (JS)
 
