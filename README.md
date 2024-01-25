@@ -7,13 +7,16 @@ Simulation link: [MIT to Harvard Bus](https://marialee222.github.io/real-time-bu
 The Real-Time Bus Tracker is a web application that visualizes the movement of a bus along a predefined route with interactive features. The application uses Mapbox GL JS for mapping and provides a real-time tracking experience. 
 
 ### Improvements
- - set the height of the map to be 100% of the viewpoint height (CSS)
- - button styling (CSS)
- - cursor pointer (CSS)
- - button hover animation (CSS)
- - moved script tags to the end of the body section (HTML)
- - updated button label (HTML)
- - created a line for the bus marker (JS)
+Updates made to enhance user experience and functionality:
+- code was separated into functions for readability (JS)
+- set the height of the map to be 100% of the viewpoint height (CSS)
+- button styling (CSS)
+- cursor pointer (CSS)
+- button hover animation (CSS)
+- Moved script tags to the end of the <body> section (HTML)
+- updated button label (HTML)
+- created a line layer to visually represent the bus route on the map (JS)
+
 
 ## How to Run
 To run the Real-Time Bus Tracker on your machine, follow these steps:
