@@ -29,7 +29,7 @@ Future improvements for the Real Time Bus Tracker include:
 	Example:  
 	MIT
 	77 Mass Ave, Cambridge MA
-	Next bus in 3 min
+	<i>Next bus in 3 min</i>
 
 ### License
 This project is licensed under the [MIT License](https://github.com/marialee222/real-time-bus-tracker/blob/main/LICENSE).
