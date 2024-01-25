@@ -32,7 +32,7 @@ Future improvements for the Real Time Bus Tracker include:
 	<i>Next bus in 3 min</i>
 
 ### License
-This project is licensed under the [MIT License](https://github.com/marialee222/real-time-bus-tracker/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/marialee222/real-time-bus-tracker/LICENSE).
 
 
 
