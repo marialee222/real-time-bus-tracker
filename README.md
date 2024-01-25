@@ -13,7 +13,7 @@ Updates made to enhance user experience and functionality:
 - button styling (CSS)
 - cursor pointer (CSS)
 - button hover animation (CSS)
-- Moved script tags to the end of the <body> section (HTML)
+- moved script tags to the end of the <body> section (HTML)
 - updated button label (HTML)
 - created a line layer to visually represent the bus route on the map (JS)
 
