@@ -28,8 +28,8 @@ Future improvements for the Real Time Bus Tracker include:
 - The schedule will include the stop name, address and time until the next bus.</br>
 	Example:  
 	MIT
-	77 Mass Ave, Cambridge MA
-	<i>Next bus in 3 min</i>
+	77 Mass Ave, Cambridge MA</br>
+  	<i>Next bus in 3 min</i>
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
