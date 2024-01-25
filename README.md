@@ -24,8 +24,8 @@ To run the Real-Time Bus Tracker on your machine, follow these steps:
 ## Roadmap
 Future improvements for the Real Time Bus Tracker include:
 - When a user touches a stop, the schedule will appear on the bottom.
--On the schedule section, you will find the actual day and the coming days with the next departing time.
--The schedule will include the stop name, address and time until the next bus.
+- On the schedule, user will find the actual day and the coming days with the next departing time.
+- The schedule will include the stop name, address and time until the next bus.
 	Example:  
 	MIT
 	77 Mass Ave, Cambridge MA
