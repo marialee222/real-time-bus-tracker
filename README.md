@@ -17,15 +17,6 @@ Updates made to enhance user experience and functionality:
 - updated button label
 - created a line layer to visually represent the bus route on the map
 
-
-## How to Run
-To run the Real-Time Bus Tracker on your machine, follow these steps:
-1. Clone the repo: git clone https://github.com/marialee222/real-time-bus-tracker.git
-2. Open the project directory: cd real-time-bus-tracker
-3. Open index.html in your web browser.
-
-
-
 ## How to Run
 To run the Real-Time Bus Tracker on your machine, follow these steps:
 1. Clone the repo: git clone https://github.com/marialee222/real-time-bus-tracker.git
