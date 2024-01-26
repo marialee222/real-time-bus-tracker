@@ -1,7 +1,7 @@
 #### MIT xPRO Fullstack Development
 ## Real-Time Bus Tracker
 ### MIT to Harvard bus line
-Simulation link: [MIT to Harvard Bus](https://marialee222.github.io/real-time-bus-tracker/)
+Simulation link: [real-time-bus-tracker](https://marialee222.github.io/real-time-bus-tracker/)
 
 ## Description
 The Real-Time Bus Tracker is a web application that visualizes the movement of a bus along a predefined route with interactive features. The application uses Mapbox GL JS for mapping and provides a real-time tracking experience. 
