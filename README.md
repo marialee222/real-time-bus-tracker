@@ -29,8 +29,7 @@ To run the Real-Time Bus Tracker on your machine, follow these steps:
 -Replace the placeholder token with your actual Mapbox access token.</br>
 5. Open index.html in your web browser.
 6. Explore the Real-Time Bus Tracker!</br>
--You should see a map with a button ("Click Here MIT to Harvard").</br>
--Click the button to initiate the animation that tracks the bus along the route.
+-Click the button ("Click Here MIT to Harvard") to initiate the animation that tracks the bus along the route.
 
 <img width="1171" alt="map" src="https://github.com/marialee222/real-time-bus-tracker/assets/150623001/520cb71b-c20f-4761-ae63-0188a070eb49">
 
