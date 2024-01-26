@@ -34,6 +34,8 @@ Future improvements for the Real-Time Bus Tracker include:
 	77 Mass Ave, Cambridge MA</br>
   	<i>Next bus in 3 min</i>
 
+Feel free to contribute ideas or collaborate on these enhancements!
+
 <img width="1171" alt="map" src="https://github.com/marialee222/real-time-bus-tracker/assets/150623001/520cb71b-c20f-4761-ae63-0188a070eb49">
 
 ### License
