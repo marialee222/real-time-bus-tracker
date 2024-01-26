@@ -21,15 +21,15 @@ Updates made to enhance user experience and functionality:
 To run the Real-Time Bus Tracker on your machine, follow these steps:
 1. Clone the repo: git clone https://github.com/marialee222/real-time-bus-tracker.git
 2. Open the project directory: cd real-time-bus-tracker
-3. Get a Mapbox Access Token:
--Visit Mapbox and sign up for an account.
--Create a new access token in your Mapbox account dashboard.
-4. Replace Access Token in mapanimation.js:
--Open the mapanimation.js file.
--Replace the placeholder token with your actual Mapbox access token.
+3. Get a Mapbox Access Token:</br>
+-Visit [Mapbox](https://www.mapbox.com/) and sign up for an account.</br>
+-Create a new access token in your Mapbox account dashboard.</br>
+4. Replace Access Token in mapanimation.js:</br>
+-Open the mapanimation.js file.</br>
+-Replace the placeholder token with your actual Mapbox access token.</br>
 5. Open index.html in your web browser.
-6. Explore the Real-Time Bus Tracker!
--You should see a map with a button ("Click Here MIT to Harvard").
+6. Explore the Real-Time Bus Tracker!</br>
+-You should see a map with a button ("Click Here MIT to Harvard").</br>
 -Click the button to initiate the animation that tracks the bus along the route.
 
 <img width="1171" alt="map" src="https://github.com/marialee222/real-time-bus-tracker/assets/150623001/520cb71b-c20f-4761-ae63-0188a070eb49">
