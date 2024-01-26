@@ -24,7 +24,7 @@ To run the Real-Time Bus Tracker on your machine, follow these steps:
 2. Open the project directory: cd real-time-bus-tracker
 3. Open index.html in your web browser.
 
-## Roadmap
+## Roadmap of Future Improvements
 Future improvements for the Real Time Bus Tracker include:
 - When a user touches a stop, the schedule will appear on the bottom.
 - On the schedule, user will find the actual day and the coming days with the next departing time.
