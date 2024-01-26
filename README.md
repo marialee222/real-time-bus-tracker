@@ -8,14 +8,14 @@ The Real-Time Bus Tracker is a web application that visualizes the movement of a
 
 ### Improvements
 Updates made to enhance user experience and functionality:
-- code was separated into functions for readability (JS)
-- set the height of the map to be 100% of the viewpoint height (CSS)
-- button styling (CSS)
-- cursor pointer (CSS)
-- button hover animation (CSS)
-- moved script tags to the end of the <body> section (HTML)
-- updated button label (HTML)
-- created a line layer to visually represent the bus route on the map (JS)
+- code was separated into functions for readability
+- set the height of the map to be 100% of the viewpoint height
+- button styling
+- cursor pointer
+- button hover animation
+- moved script tags to the end of the <body> section
+- updated button label
+- created a line layer to visually represent the bus route on the map
 
 
 ## How to Run
