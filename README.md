@@ -25,7 +25,7 @@ To run the Real-Time Bus Tracker on your machine, follow these steps:
 3. Open index.html in your web browser.
 
 ## Roadmap of Future Improvements
-Future improvements for the Real Time Bus Tracker include:
+Future improvements for the Real-Time Bus Tracker include:
 - When a user touches a stop, the schedule will appear on the bottom.
 - On the schedule, user will find the actual day and the coming days with the next departing time.
 - The schedule will include the stop name, address and time until the next bus.</br>
