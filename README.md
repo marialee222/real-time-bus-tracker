@@ -1,6 +1,6 @@
 #### MIT xPRO Fullstack Development
 ## Real-Time Bus Tracker
-### MIT to Harvard bus line
+### The "Innovation Express": MIT ➔ Harvard bus line
 Simulation link: [real-time-bus-tracker](https://marialee222.github.io/real-time-bus-tracker/)
 
 ## Description
