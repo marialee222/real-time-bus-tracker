@@ -33,7 +33,6 @@ To run the Real-Time Bus Tracker on your machine, follow these steps:
 
 <img width="1171" alt="map" src="https://github.com/marialee222/real-time-bus-tracker/assets/150623001/520cb71b-c20f-4761-ae63-0188a070eb49">
 
-
 ## Roadmap of Future Improvements
 Future improvements for the Real-Time Bus Tracker include:
 - When a user touches a stop, the schedule will appear on the bottom.
