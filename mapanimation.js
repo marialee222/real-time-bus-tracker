@@ -18,7 +18,7 @@ const busStops = [
 mapboxgl.accessToken =
   'pk.eyJ1IjoidGVzdHVzZXIxMDAwIiwiYSI6ImNraDkzZ2pkMzAzMHoycnBmMXpvZ3UwZnMifQ.jAE4YsPeAJv50VK92NSpOQ';
 
-  // create the map object using mapboxgl.map() function
+// create the map object using mapboxgl.map() function
 let map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/streets-v11',
@@ -34,7 +34,7 @@ let counter = 0;
 
 // Wait for the map to finish loading before adding the marker line
 map.on('load', function () {
-  // Create a GeoJSON source with a simple line
+// Create a GeoJSON source with a simple line
   map.addSource('line', {
     type: 'geojson',
     data: {
@@ -47,7 +47,7 @@ map.on('load', function () {
     },
   });
 
-  // Add a line layer for the bus route
+// Add a line layer for the bus route
   map.addLayer({
     id: 'line',
     type: 'line',
@@ -62,12 +62,12 @@ map.on('load', function () {
     },
   });
 
-  // Add an event listener to the button
+// Add an event listener to the button
   document.getElementById('move-button').addEventListener('click', move);
 });
 
 function move() {
-  // Move the marker and update the line on the map
+// Move the marker and update the line on the map
   if (counter < busStops.length) {
     marker.setLngLat(busStops[counter]);
     counter++;
@@ -76,7 +76,7 @@ function move() {
 }
 
 function updateLine() {
-  // Update the line's coordinates with the new marker position
+// Update the line's coordinates with the new marker position
   const lineCoordinates = busStops.slice(0, counter + 1);
   map.getSource('line').setData({
     type: 'Feature',
